@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marguarisco or Marcelle Guarisco
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python, more objectly advanced oo (object orientation)
+- 💞️ I’m looking to collaborate on projects to enrich my knowledge and for the future, aiming to work with that
+- 📫 How to reach me by messaging me here
